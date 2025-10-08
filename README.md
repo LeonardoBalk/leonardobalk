@@ -50,7 +50,7 @@
 
 📧 **Email:** leonardo.balk01@gmail.com  
 📱 **WhatsApp:** (55) 99643-2639  
-💼 **LinkedIn:** [linkedin.com/in/leoanardobalk](https://linkedin.com/in/leonardobalk
+💼 [**LinkedIn:**(https://linkedin.com/in/leonardobalk)]
 
 ---
 
