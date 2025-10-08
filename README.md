@@ -1,11 +1,10 @@
-<h1 align="center">👋 Olá! Me chamo Leonardo Balk</h1>
+<h1 align="center">👋 Oi! Me chamo Leonardo Balk</h1>
 
 ## 🧠 Sobre mim
 
 🎓 Cursando **Sistemas de Informação** na UFSM  
 🛠️ Experiência com suporte técnico, manutenção de sistemas e atendimento em TI  
 👨‍💻 Interesse em desenvolvimento front-end, back-end e dados
-🌱 Sempre aprendendo e praticando novas tecnologias
 
 ---
 
@@ -32,8 +31,8 @@
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|------------|
-| [**API Gerenciamento de irrigação**]([https://github.com/seu-usuario/react-todo-list](https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao)) | Node.js, Express | CRUD de gerenciamento de irrigação |
-| [**Compartilhamento de músicas**]([https://github.com/seu-usuario/api-cadastro-produtos](https://github.com/elc1090/project4-2025a-leonardo)) | Node.js, Express, MongoDB Atlas, Vue.js, CSS | Projeto de compartilhamento de músicas |
+| [**API Gerenciamento de irrigação**](https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao) | Node.js, Express | CRUD de gerenciamento de irrigação |
+| [**Compartilhamento de músicas**](https://github.com/elc1090/project4-2025a-leonardo) | Node.js, Express, MongoDB Atlas, Vue.js, CSS | Projeto de compartilhamento de músicas |
 
 
 ---
