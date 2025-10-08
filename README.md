@@ -103,10 +103,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LeonardoBalk&hide_border=true&background=0d1117&stroke=002FFF&ring=002FFF&fire=4D6DFF&currStreakLabel=4D6DFF" height="160" alt="Streak Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoBalk&bg_color=0d1117&color=4D6DFF&line=002FFF&point=4D6DFF&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
