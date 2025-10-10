@@ -26,7 +26,36 @@
 
 ---
 
-## Habilidades Técnicas
+## Projeto que destaco
+
+<p align="center">
+  <a href="https://github.com/LeonardoBalk/assistente-neurocom">
+    <img height="160" alt="Assistente Neurocom — Backend" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoBalk&repo=assistente-neurocom&hide_border=true&title_color=002FFF&text_color=c9d1d9&icon_color=4D6DFF&bg_color=0d1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LeonardoBalk/assistente-neurocom">
+    <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-002FFF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/LeonardoBalk/assistente-neurocom?style=for-the-badge&color=002FFF" />
+  <img src="https://img.shields.io/github/issues/LeonardoBalk/assistente-neurocom?style=for-the-badge&color=002FFF" />
+  <img src="https://img.shields.io/github/last-commit/LeonardoBalk/assistente-neurocom?style=for-the-badge&color=002FFF" />
+</p>
+
+- Backend dialógico com RAG (docs + histórico) e embeddings 768d, com autenticação JWT/Google e RPCs otimizadas no Supabase.  
+- Stack: Node.js + Express, Supabase (Postgres/pgvector), Google Gemini (Geração/Embeddings), WebSocket (ws) e Deploy no Render.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,js&perline=8" />
+</p>
+
+---
+
+## Habilidades técnicas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,python,php,c,mysql,postgresql,mongodb,git,bootstrap&perline=8" />
@@ -40,7 +69,7 @@
 
 ---
 
-## Experiência Profissional
+## Experiência profissional
 
 <details>
   <summary><b>Suporte Técnico – MACSUL (Fev 2025 – Ago 2025)</b></summary>
@@ -68,14 +97,14 @@
 
 ---
 
-## Formação Acadêmica
+## Formação acadêmica
 
 - Bacharelado em Sistemas de Informação – UFSM (2023 – 2027)  
 - Técnico em Administração – Instituto Federal Farroupilha (2020 – 2022)
 
 ---
 
-## Projetos em Destaque
+## Outros projetos em destaque
 
 <p align="center">
   <a href="https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao">
