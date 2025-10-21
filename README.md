@@ -27,10 +27,13 @@
 ---
 
 ## Projeto que destaco
+<p align="center">
+
+</p>
 
 <p align="center">
   <a href="https://github.com/LeonardoBalk/assistente-neurocom">
-    <img height="160" alt="Assistente Neurocom — Backend" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoBalk&repo=assistente-neurocom&hide_border=true&title_color=002FFF&text_color=c9d1d9&icon_color=4D6DFF&bg_color=0d1117" />
+   <img width="200" height="200" alt="neurocom" src="https://github.com/user-attachments/assets/7b8b4c29-f93f-4696-9bfc-0a8c76e81911" />
   </a>
 </p>
 
