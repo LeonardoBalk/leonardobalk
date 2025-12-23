@@ -1,165 +1,255 @@
-<!-- Banner animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=002FFF&height=180&section=header&text=Leonardo%20Balk%20&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20|%20Estudante%20de%20SI%20&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Leonardo%20Balk&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%26%20React&descSize=18&descAlignY=55"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=002FFF&center=true&vCenter=true&width=800&lines=Full+Stack+%7C+Web+%7C+Dados+%7C+Automa%C3%A7%C3%A3o+" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/leonardobalk"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-002FFF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:leonardo.balk01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-002FFF?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/5555996432639"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-002FFF?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://github.com/LeonardoBalk?tab=repositories"><img alt="Repositórios" src="https://img.shields.io/badge/Ver%20reposit%C3%B3rios-002FFF?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img alt="Views" src="https://komarev.com/ghpvc/?username=LeonardoBalk&style=for-the-badge&color=002FFF">
+  <a href="https://linkedin.com/in/leonardobalk">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:leonardo.balk01@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5555996432639">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=LeonardoBalk&style=for-the-badge&color=1a1a2e&label=Visitors"/>
 </p>
 
 ---
 
 ## Sobre mim
 
-- Estudante de Sistemas de Informação na UFSM  
-- Experiência com suporte técnico, manutenção de sistemas e infraestrutura de TI  
-- Interesse em desenvolvimento web, dados e automação  
-- Santa Maria — RS, Brasil
+```yaml
+nome: Leonardo Garcia Balk
+localizacao: Santa Maria, RS - Brasil
+formacao: Sistemas de Informacao @ UFSM (2023-2027)
+foco_principal:
+  - Node.js & Express
+  - React & TypeScript
+  - APIs REST & WebSockets
+  - Supabase & PostgreSQL
+objetivo: Aprender e evoluir na area de tecnologia da informacao
+```
 
 ---
 
-## Projeto que destaco
-<p align="center">
+## Stack Principal
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,ts,js,supabase,postgres,docker&perline=8" />
 </p>
+
+<details>
+<summary><b>Outras tecnologias</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,bootstrap,spring,git,github,linux&perline=10" />
+</p>
+
+| Area | Tecnologias |
+|------|-------------|
+| **Backend** | Node.js, Express, Java, Python, Spring Boot |
+| **Frontend** | React, TypeScript, JavaScript, HTML, CSS, Bootstrap |
+| **Banco de Dados** | PostgreSQL, Supabase, SQL |
+| **DevOps** | Docker, Git, GitHub |
+| **Outros** | WebSockets, REST APIs, JWT, OAuth, RAG |
+
+</details>
+
+---
+
+## Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Assistente Neurocom</h3>
 
 <p align="center">
   <a href="https://github.com/LeonardoBalk/assistente-neurocom">
-   <img width="200" height="200" alt="neurocom" src="https://github.com/user-attachments/assets/7b8b4c29-f93f-4696-9bfc-0a8c76e81911" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoBalk&repo=assistente-neurocom&theme=github_dark&hide_border=true&bg_color=0d1117"/>
   </a>
 </p>
 
+Backend conversacional com **RAG** e embeddings para contexto semantico.
+
 <p align="center">
-  <a href="https://github.com/LeonardoBalk/assistente-neurocom">
-    <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-002FFF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+**Destaques:**
+- Autenticacao JWT + Google OAuth
+- Integracao Google Generative AI
+- WebSocket para tempo real
+- Deploy no Render
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Kanban Tarefas</h3>
+
+<p align="center">
+  <a href="https://github.com/LeonardoBalk/kanban-tarefas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoBalk&repo=kanban-tarefas&theme=github_dark&hide_border=true&bg_color=0d1117"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/LeonardoBalk/assistente-neurocom?style=for-the-badge&color=002FFF" />
-  <img src="https://img.shields.io/github/issues/LeonardoBalk/assistente-neurocom?style=for-the-badge&color=002FFF" />
-  <img src="https://img.shields.io/github/last-commit/LeonardoBalk/assistente-neurocom?style=for-the-badge&color=002FFF" />
-</p>
-
-- Backend dialógico com RAG (docs + histórico) e embeddings 768d, com autenticação JWT/Google e RPCs otimizadas no Supabase.  
-- Stack: Node.js + Express, Supabase (Postgres/pgvector), Google Gemini (Geração/Embeddings), WebSocket (ws) e Deploy no Render.
+Aplicacao full-stack com **Go + React** e drag-and-drop.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,js&perline=8" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
----
+**Destaques:**
+- Tres colunas: A Fazer, Em Progresso, Concluidas
+- Drag and drop para mover tarefas
+- Thread-safe com sync.RWMutex
+- Containerizado com Docker Compose
 
-## Habilidades técnicas
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,python,php,c,mysql,postgresql,mongodb,git,bootstrap&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-002FFF?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Open%20Source%20Lover-002FFF?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Always%20Learning-002FFF?style=for-the-badge&logo=bookstack&logoColor=white"/>
-</p>
-
----
-
-## Experiência profissional
-
-<details>
-  <summary><b>Suporte Técnico – MACSUL (Fev 2025 – Ago 2025)</b></summary>
-  <br/>
-  <blockquote>
-    Suporte a sistemas de automação, manutenção e configuração de hardware/software e atendimento a usuários.
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Bolsista TI – CCSH/UFSM (Jul 2024 – Fev 2025)</b></summary>
-  <br/>
-  <blockquote>
-    Manutenção e diagnóstico de sistemas, suporte técnico e garantia de funcionamento da infraestrutura.
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Arquivista – Supertex (Mar 2023 – Ago 2023)</b></summary>
-  <br/>
-  <blockquote>
-    Organização, digitalização e gestão de documentos físicos e digitais.
-  </blockquote>
-</details>
-
----
-
-## Formação acadêmica
-
-- Bacharelado em Sistemas de Informação – UFSM (2023 – 2027)  
-- Técnico em Administração – Instituto Federal Farroupilha (2020 – 2022)
-
----
-
-## Outros projetos em destaque
+<h3 align="center">API Irrigacao</h3>
 
 <p align="center">
   <a href="https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao">
-    <img height="140" alt="API Gerenciamento de Irrigação" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoBalk&repo=API-Gerenciamento-de-Irrigacao&hide_border=true&title_color=002FFF&text_color=c9d1d9&icon_color=4D6DFF&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/elc1090/project4-2025a-leonardo">
-    <img height="140" alt="Compartilhamento de Músicas" src="https://github-readme-stats.vercel.app/api/pin/?username=elc1090&repo=project4-2025a-leonardo&hide_border=true&title_color=002FFF&text_color=c9d1d9&icon_color=4D6DFF&bg_color=0d1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoBalk&repo=API-Gerenciamento-de-Irrigacao&theme=github_dark&hide_border=true&bg_color=0d1117"/>
   </a>
 </p>
+
+API RESTful para gerenciamento de **pivos de irrigacao agricola**.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+**Destaques:**
+- Autenticacao JWT completa
+- CRUD de pivos e registros
+- Validacao de permissoes por usuario
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Portfolio</h3>
+
+<p align="center">
+  <a href="https://github.com/LeonardoBalk/portfolio-trabalho-final">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoBalk&repo=portfolio-trabalho-final&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+  </a>
+</p>
+
+Site pessoal com design responsivo e boas praticas.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+**Destaques:**
+- Design responsivo
+- HTML/CSS semantico
+- SEO otimizado
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/LeonardoBalk?tab=repositories">
-    <img src="https://img.shields.io/badge/-Ver%20todos%20os%20projetos-002FFF?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os projetos"/>
+    <img src="https://img.shields.io/badge/-Ver%20todos%20os%20repositorios-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoBalk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=002FFF&icon_color=4D6DFF&text_color=c9d1d9" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBalk&layout=compact&hide_border=true&bg_color=0d1117&title_color=002FFF&text_color=c9d1d9" height="160" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeonardoBalk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBalk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LeonardoBalk&hide_border=true&background=0d1117&stroke=002FFF&ring=002FFF&fire=4D6DFF&currStreakLabel=4D6DFF" height="160" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LeonardoBalk&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoBalk&bg_color=0d1117&color=4D6DFF&line=002FFF&point=4D6DFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoBalk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## Soft Skills
+## Experiencia Profissional
 
-- Comunicação clara e empática  
-- Proatividade e aprendizado rápido  
-- Trabalho em equipe e colaboração  
-- Foco em resultados e soluções eficientes  
+| Periodo | Cargo | Empresa |
+|---------|-------|---------|
+| **Set 2025 - Atual** | Estagiario de Desenvolvimento Full Stack / TI | LAMIC - UFSM |
+| **Ago 2025 - Nov 2025** | Desenvolvedor Full Stack | Neurocom |
+| **Mai 2025 - Set 2025** | Suporte Tecnico | Macsul |
+| **Jul 2024 - Mar 2025** | Bolsista de TI | CCSH - UFSM |
+| **Mar 2023 - Ago 2023** | Arquivista | Supertex |
+
+<details>
+<summary><b>Detalhes das experiencias</b></summary>
+<br>
+
+**LAMIC - UFSM** | Estagiario de Desenvolvimento Full Stack / TI
+> Desenvolvimento e manutencao de aplicacoes web internas, administracao de servidores Windows Server, uso de Docker e integracoes via APIs REST.
+
+**Neurocom** | Desenvolvedor Full Stack
+> Criacao de assistente conversacional com RAG (Node.js, Supabase, Google Gemini), autenticacao JWT/Google e WebSocket.
+
+**Macsul** | Suporte Tecnico
+> Atendimento tecnico, manutencao de sistemas de automacao comercial e suporte em infraestrutura e redes.
+
+**CCSH - UFSM** | Bolsista de TI
+> Suporte a usuarios, manutencao de hardware/software e diagnostico de problemas tecnicos.
+
+</details>
 
 ---
 
-## Contato
+## Formacao Academica
 
-- E-mail: <a href="mailto:leonardo.balk01@gmail.com">leonardo.balk01@gmail.com</a>  
-- WhatsApp: <a href="https://wa.me/5555996432639" target="_blank" rel="noreferrer">(+55) 55 99643-2639</a>  
-- LinkedIn: <a href="https://linkedin.com/in/leonardobalk" target="_blank" rel="noreferrer">linkedin.com/in/leonardobalk</a>
+| Curso | Instituicao | Periodo | Status |
+|-------|-------------|---------|--------|
+| **Bacharelado em Sistemas de Informacao** | UFSM | 2023 - 2027 | Cursando |
+| **Tecnico em Administracao** | IF Farroupilha | 2020 - 2022 | Concluido |
+
+---
+
+## Idiomas
+
+| Idioma | Nivel |
+|--------|-------|
+| Portugues | Nativo |
+| Ingles | Basico/Intermediario |
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=002FFF&height=120&section=footer"/>
+  <img src="https://img.shields.io/badge/-Aberto%20a%20oportunidades-22c55e?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>Vamos conversar?</b><br/>
+  <a href="mailto:leonardo.balk01@gmail.com">leonardo.balk01@gmail.com</a> | 
+  <a href="https://wa.me/5555996432639">(55) 99643-2639</a> | 
+  <a href="https://linkedin.com/in/leonardobalk">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=120&section=footer"/>
 </p>
