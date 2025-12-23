@@ -20,18 +20,19 @@
 
 ```yaml
 nome: Leonardo Garcia Balk
-localizacao: Santa Maria, RS - Brasil
-formacao: Sistemas de Informacao @ UFSM (2023-2027)
+localização: Santa Maria, RS - Brasil
+formação: Sistemas de Informação @ UFSM (2023-2027)
 foco_principal:
   - Node.js & Express
   - React & TypeScript
   - APIs REST & WebSockets
   - Supabase & PostgreSQL
+objetivo: Aprender e evoluir na área de tecnologia da informação
 ```
 
 ---
 
-## Stack Principal
+## Stack principal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,ts,js,supabase,postgres,docker&perline=8" />
@@ -44,11 +45,11 @@ foco_principal:
   <img src="https://skillicons.dev/icons?i=java,python,c,html,css,bootstrap,spring,git,github,linux&perline=10" />
 </p>
 
-| Area | Tecnologias |
+| Área | Tecnologias |
 |------|-------------|
 | **Backend** | Node.js, Express, Java, Python, Spring Boot |
 | **Frontend** | React, TypeScript, JavaScript, HTML, CSS, Bootstrap |
-| **Banco de Dados** | PostgreSQL, Supabase, SQL |
+| **Banco de dados** | PostgreSQL, Supabase, SQL |
 | **DevOps** | Docker, Git, GitHub |
 | **Outros** | WebSockets, REST APIs, JWT, OAuth, RAG |
 
@@ -56,10 +57,10 @@ foco_principal:
 
 ---
 
-## Projetos em Destaque
+## Projetos em destaque
 
 ### [Assistente Neurocom](https://github.com/LeonardoBalk/assistente-neurocom)
-Backend conversacional com **RAG** e embeddings para contexto semantico.
+Backend conversacional com **RAG** e embeddings para contexto semântico.
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -69,15 +70,15 @@ Backend conversacional com **RAG** e embeddings para contexto semantico.
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 </p>
 
-- Autenticacao JWT + Google OAuth
-- Integracao Google Generative AI (Gemini)
-- WebSocket para comunicacao em tempo real
+- Autenticação JWT + Google OAuth
+- Integração Google Generative AI (Gemini)
+- WebSocket para comunicação em tempo real
 - Deploy no Render
 
 ---
 
 ### [Kanban Tarefas](https://github.com/LeonardoBalk/kanban-tarefas)
-Aplicacao full-stack com **Go + React** e drag-and-drop.
+Aplicação full-stack com **Go + React** e drag-and-drop.
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
@@ -85,15 +86,15 @@ Aplicacao full-stack com **Go + React** e drag-and-drop.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-- Tres colunas: A Fazer, Em Progresso, Concluidas
+- Três colunas: A Fazer, Em Progresso, Concluídas
 - Drag and drop para mover tarefas
 - Thread-safe com sync.RWMutex
 - Containerizado com Docker Compose
 
 ---
 
-### [API Gerenciamento de Irrigacao](https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao)
-API RESTful para gerenciamento de **pivos de irrigacao agricola**.
+### [API Gerenciamento de Irrigação](https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao)
+API RESTful para gerenciamento de **pivôs de irrigação agrícola**.
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -101,14 +102,14 @@ API RESTful para gerenciamento de **pivos de irrigacao agricola**.
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
-- Autenticacao JWT completa
-- CRUD de pivos e registros de irrigacao
-- Validacao de permissoes por usuario
+- Autenticação JWT completa
+- CRUD de pivôs e registros de irrigação
+- Validação de permissões por usuário
 
 ---
 
 ### [Portfolio](https://github.com/LeonardoBalk/portfolio-trabalho-final)
-Site pessoal com design responsivo e boas praticas.
+Site pessoal com design responsivo e boas práticas.
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -117,76 +118,65 @@ Site pessoal com design responsivo e boas praticas.
 </p>
 
 - Design responsivo
-- HTML/CSS semantico
+- HTML/CSS semântico
 - SEO otimizado
 
 ---
 
 <p align="center">
   <a href="https://github.com/LeonardoBalk?tab=repositories">
-    <img src="https://img.shields.io/badge/-Ver%20todos%20os%20repositorios-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Ver%20todos%20os%20repositórios-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeonardoBalk&theme=dark&hide_border=true" />
-</p>
+## Experiências profissionais
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoBalk&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
-## Experiencia Profissional
-
-| Periodo | Cargo | Empresa |
+| Período | Cargo | Empresa |
 |---------|-------|---------|
-| **Set 2025 - Atual** | Estagiario de Desenvolvimento Full Stack / TI | LAMIC - UFSM |
-| **Ago 2025 - Nov 2025** | Desenvolvedor Full Stack | Neurocom |
-| **Mai 2025 - Set 2025** | Suporte Tecnico | Macsul |
+| **Set 2025 - Atual** | Estagiário de desenvolvimento full stack / TI | LAMIC - UFSM |
+| **Ago 2025 - Nov 2025** | Desenvolvedor full stack | Neurocom |
+| **Mai 2025 - Set 2025** | Suporte técnico | Macsul |
 | **Jul 2024 - Mar 2025** | Bolsista de TI | CCSH - UFSM |
 | **Mar 2023 - Ago 2023** | Arquivista | Supertex |
 
 <details>
-<summary><b>Detalhes das experiencias</b></summary>
+<summary><b>Detalhes das experiências</b></summary>
 <br>
 
-**LAMIC - UFSM** | Estagiario de Desenvolvimento Full Stack / TI
-> Desenvolvimento e manutencao de aplicacoes web internas, administracao de servidores Windows Server, uso de Docker e integracoes via APIs REST.
+**LAMIC - UFSM** | Estagiário de desenvolvimento full stack / TI
+> Desenvolvimento e manutenção de aplicações web internas, administração de servidores Windows Server, uso de Docker e integrações via APIs REST.
 
-**Neurocom** | Desenvolvedor Full Stack
-> Criacao de assistente conversacional com RAG (Node.js, Supabase, Google Gemini), autenticacao JWT/Google e WebSocket.
+**Neurocom** | Desenvolvedor full stack
+> Criação de assistente conversacional com RAG (Node.js, Supabase, Google Gemini), autenticação JWT/Google e WebSocket.
 
-**Macsul** | Suporte Tecnico
-> Atendimento tecnico, manutencao de sistemas de automacao comercial e suporte em infraestrutura e redes.
+**Macsul** | Suporte técnico
+> Atendimento técnico, manutenção de sistemas de automação comercial e suporte em infraestrutura e redes.
 
 **CCSH - UFSM** | Bolsista de TI
-> Suporte a usuarios, manutencao de hardware/software e diagnostico de problemas tecnicos.
+> Suporte a usuários, manutenção de hardware/software e diagnóstico de problemas técnicos.
 
 </details>
 
 ---
 
-## Formacao Academica
+## Formação acadêmica
 
-| Curso | Instituicao | Periodo | Status |
+| Curso | Instituição | Período | Status |
 |-------|-------------|---------|--------|
-| **Bacharelado em Sistemas de Informacao** | UFSM | 2023 - 2027 | Cursando |
-| **Tecnico em Administracao** | IF Farroupilha | 2020 - 2022 | Concluido |
+| **Bacharelado em Sistemas de Informação** | UFSM | 2023 - 2027 | Cursando |
+| **Técnico em Administração** | IF Farroupilha | 2020 - 2022 | Concluído |
 
 ---
 
 ## Idiomas
 
-| Idioma | Nivel |
+| Idioma | Nível |
 |--------|-------|
-| Portugues | Nativo |
-| Ingles | Basico/Intermediario |
+| Português | Nativo |
+| Inglês | Básico/intermediário |
 
 ---
 
