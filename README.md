@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Leonardo%20Balk&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%26%20React&descSize=18&descAlignY=55"/>
-</p>
+<h1 align="center">Leonardo Balk</h1>
+<h3 align="center">Full Stack Developer | Node.js & React</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/leonardobalk">
@@ -28,7 +27,6 @@ foco_principal:
   - React & TypeScript
   - APIs REST & WebSockets
   - Supabase & PostgreSQL
-objetivo: Aprender e evoluir na area de tecnologia da informacao
 ```
 
 ---
@@ -60,111 +58,69 @@ objetivo: Aprender e evoluir na area de tecnologia da informacao
 
 ## Projetos em Destaque
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">Assistente Neurocom</h3>
-
-<p align="center">
-  <a href="https://github.com/LeonardoBalk/assistente-neurocom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoBalk&repo=assistente-neurocom&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-  </a>
-</p>
-
+### [Assistente Neurocom](https://github.com/LeonardoBalk/assistente-neurocom)
 Backend conversacional com **RAG** e embeddings para contexto semantico.
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 </p>
 
-**Destaques:**
 - Autenticacao JWT + Google OAuth
-- Integracao Google Generative AI
-- WebSocket para tempo real
+- Integracao Google Generative AI (Gemini)
+- WebSocket para comunicacao em tempo real
 - Deploy no Render
 
-</td>
-<td width="50%" valign="top">
+---
 
-<h3 align="center">Kanban Tarefas</h3>
-
-<p align="center">
-  <a href="https://github.com/LeonardoBalk/kanban-tarefas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoBalk&repo=kanban-tarefas&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-  </a>
-</p>
-
+### [Kanban Tarefas](https://github.com/LeonardoBalk/kanban-tarefas)
 Aplicacao full-stack com **Go + React** e drag-and-drop.
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-**Destaques:**
 - Tres colunas: A Fazer, Em Progresso, Concluidas
 - Drag and drop para mover tarefas
 - Thread-safe com sync.RWMutex
 - Containerizado com Docker Compose
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-<h3 align="center">API Irrigacao</h3>
-
-<p align="center">
-  <a href="https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoBalk&repo=API-Gerenciamento-de-Irrigacao&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-  </a>
-</p>
-
+### [API Gerenciamento de Irrigacao](https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao)
 API RESTful para gerenciamento de **pivos de irrigacao agricola**.
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
-**Destaques:**
 - Autenticacao JWT completa
-- CRUD de pivos e registros
+- CRUD de pivos e registros de irrigacao
 - Validacao de permissoes por usuario
 
-</td>
-<td width="50%" valign="top">
+---
 
-<h3 align="center">Portfolio</h3>
-
-<p align="center">
-  <a href="https://github.com/LeonardoBalk/portfolio-trabalho-final">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoBalk&repo=portfolio-trabalho-final&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-  </a>
-</p>
-
+### [Portfolio](https://github.com/LeonardoBalk/portfolio-trabalho-final)
 Site pessoal com design responsivo e boas praticas.
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-**Destaques:**
 - Design responsivo
 - HTML/CSS semantico
 - SEO otimizado
 
-</td>
-</tr>
-</table>
+---
 
 <p align="center">
   <a href="https://github.com/LeonardoBalk?tab=repositories">
@@ -177,16 +133,11 @@ Site pessoal com design responsivo e boas praticas.
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeonardoBalk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBalk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img src="https://streak-stats.demolab.com?user=LeonardoBalk&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LeonardoBalk&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoBalk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoBalk&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
@@ -248,8 +199,4 @@ Site pessoal com design responsivo e boas praticas.
   <a href="mailto:leonardo.balk01@gmail.com">leonardo.balk01@gmail.com</a> | 
   <a href="https://wa.me/5555996432639">(55) 99643-2639</a> | 
   <a href="https://linkedin.com/in/leonardobalk">LinkedIn</a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=120&section=footer"/>
 </p>
