@@ -27,7 +27,6 @@ foco_principal:
   - React & TypeScript
   - APIs REST & WebSockets
   - Supabase & PostgreSQL
-objetivo: Aprender e evoluir na área de tecnologia da informação
 ```
 
 ---
