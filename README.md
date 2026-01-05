@@ -180,10 +180,6 @@ Site pessoal com design responsivo e boas práticas.
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Aberto%20a%20oportunidades-22c55e?style=for-the-badge"/>
-</p>
-
-<p align="center">
   <b>Vamos conversar?</b><br/>
   <a href="mailto:leonardo.balk01@gmail.com">leonardo.balk01@gmail.com</a> | 
   <a href="https://wa.me/5555996432639">(55) 99643-2639</a> | 
