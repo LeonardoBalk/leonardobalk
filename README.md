@@ -8,9 +8,6 @@
   <a href="mailto:leonardo.balk01@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/5555996432639">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=LeonardoBalk&style=for-the-badge&color=1a1a2e&label=Visitors"/>
 </p>
 
@@ -25,7 +22,7 @@ formação: Sistemas de Informação @ UFSM (2023-2027)
 foco_principal:
   - Node.js & Express
   - React & TypeScript
-  - APIs REST & WebSockets
+  - APIs REST & integração de IA (RAG)
   - Supabase & PostgreSQL
 ```
 
@@ -33,30 +30,103 @@ foco_principal:
 
 ## Stack principal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,ts,js,supabase,postgres,docker&perline=8" />
+**Linguagens**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux--Saga-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+**Tools & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
 </p>
 
 <details>
-<summary><b>Outras tecnologias</b></summary>
+<summary><b>Tabela completa</b></summary>
 <br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,bootstrap,spring,git,github,linux&perline=10" />
-</p>
 
 | Área | Tecnologias |
 |------|-------------|
-| **Backend** | Node.js, Express, Java, Python, Spring Boot |
-| **Frontend** | React, TypeScript, JavaScript, HTML, CSS, Bootstrap |
-| **Banco de dados** | PostgreSQL, Supabase, SQL |
-| **DevOps** | Docker, Git, GitHub |
-| **Outros** | WebSockets, REST APIs, JWT, OAuth, RAG |
+| **Backend** | Node.js, Express, NestJS, Java, Python, Spring Boot |
+| **Frontend** | React, Redux-Saga, Next.js, Vite, TypeScript, JavaScript, Tailwind, HTML, CSS |
+| **Banco de dados** | PostgreSQL, Supabase, Firebase, SQL |
+| **DevOps** | Docker, Git, GitHub, AWS |
+| **Outros** | REST APIs, WebSockets, JWT, OAuth, RAG |
 
 </details>
 
 ---
 
 ## Projetos em destaque
+
+### [Tessera](https://github.com/LeonardoBalk/tessera)
+Plataforma de eventos e ingressos com três papéis: organizador, cliente e portaria.
+
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+- Reserva com transação atômica, garantindo que o mesmo lugar nunca seja vendido duas vezes
+- Ingresso com QR assinado via HMAC, validação com quatro estados (válido, inválido, já utilizado, evento errado)
+- Busca de eventos por linguagem natural, extraindo filtros estruturados via IA
+- Integração com Ticketmaster Discovery API
+- Deploy: [tesseratickets.vercel.app](https://tesseratickets.vercel.app/)
+
+---
+
+### [HealthLens](https://github.com/LeonardoBalk)
+Plataforma de análise de dados de saúde, com upload e exploração de datasets.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+- Upload e exploração de datasets (CSV, JSON, XLSX)
+- Estatísticas automáticas e visualizações interativas com Recharts
+- Chat com IA para análise dos dados em linguagem natural (Gemini)
+
+---
 
 ### [Assistente Neurocom](https://github.com/LeonardoBalk/assistente-neurocom)
 Backend conversacional com **RAG** e embeddings para contexto semântico.
@@ -74,7 +144,9 @@ Backend conversacional com **RAG** e embeddings para contexto semântico.
 - WebSocket para comunicação em tempo real
 - Deploy no Render
 
----
+<details>
+<summary><b>Outros projetos</b></summary>
+<br>
 
 ### [Kanban Tarefas](https://github.com/LeonardoBalk/kanban-tarefas)
 Aplicação full-stack com **Go + React** e drag-and-drop.
@@ -93,7 +165,7 @@ Aplicação full-stack com **Go + React** e drag-and-drop.
 ---
 
 ### [API Gerenciamento de Irrigação](https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao)
-API RESTful para gerenciamento de **pivôs de irrigação agrícola**.
+API RESTful para gerenciamento de pivôs de irrigação agrícola.
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -120,6 +192,8 @@ Site pessoal com design responsivo e boas práticas.
 - HTML/CSS semântico
 - SEO otimizado
 
+</details>
+
 ---
 
 <p align="center">
@@ -130,13 +204,13 @@ Site pessoal com design responsivo e boas práticas.
 
 ---
 
-
 ## Experiências profissionais
 
 | Período | Cargo | Empresa |
 |---------|-------|---------|
-| **Set 2025 - Atual** | Estagiário de desenvolvimento full stack / TI | LAMIC - UFSM |
-| **Ago 2025 - Nov 2025** | Desenvolvedor full stack | Neurocom |
+| **Jan 2026 - Atual** | Estagiário Full Stack | Ouvidor Digital |
+| **Set 2025 - Jan 2026** | Estagiário Full Stack / TI | LAMIC - UFSM |
+| **Ago 2025 - Nov 2025** | Full Stack Developer | Neurocom |
 | **Mai 2025 - Set 2025** | Suporte técnico | Macsul |
 | **Jul 2024 - Mar 2025** | Bolsista de TI | CCSH - UFSM |
 | **Mar 2023 - Ago 2023** | Arquivista | Supertex |
@@ -145,10 +219,13 @@ Site pessoal com design responsivo e boas práticas.
 <summary><b>Detalhes das experiências</b></summary>
 <br>
 
-**LAMIC - UFSM** | Estagiário de desenvolvimento full stack / TI
-> Desenvolvimento e manutenção de aplicações web internas, administração de servidores Windows Server, uso de Docker e integrações via APIs REST.
+**Ouvidor Digital** | Estagiário Full Stack
+> Desenvolvimento e manutenção de aplicações web com TypeScript, React, Next.js, Node.js, NestJS, Redux-Saga e Firebase. Criação de APIs REST, implementação de features e correção de bugs em ambiente multi-repositório. Testes unitários e end-to-end com Vitest e Playwright.
 
-**Neurocom** | Desenvolvedor full stack
+**LAMIC - UFSM** | Estagiário Full Stack / TI
+> Desenvolvimento de sistemas web internos, integração de APIs REST e suporte à infraestrutura de TI.
+
+**Neurocom** | Full Stack Developer
 > Criação de assistente conversacional com RAG (Node.js, Supabase, Google Gemini), autenticação JWT/Google e WebSocket.
 
 **Macsul** | Suporte técnico
@@ -175,7 +252,7 @@ Site pessoal com design responsivo e boas práticas.
 | Idioma | Nível |
 |--------|-------|
 | Português | Nativo |
-| Inglês | Básico/intermediário |
+| Inglês | B1 - leitura técnica fluente |
 
 ---
 
