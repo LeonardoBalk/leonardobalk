@@ -94,7 +94,7 @@ Desenvolvimento e manutenção de plataforma SaaS, criação de funcionalidades 
 
 <p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,postgres,supabase,docker&theme=dark&perline=8" alt="Node.js, NestJS, Express, Python, FastAPI, PostgreSQL, Supabase e Docker"></p>
 
-`APIs REST` · `RAG` · `Agentes de IA` · `Gemini` · `OpenAI` · `Playwright` · `Vitest` · `Git`
+<p><img src="https://img.shields.io/badge/APIs%20REST-1F2226?style=flat-square" height="28" alt="APIs REST"> <img src="https://img.shields.io/badge/RAG-1F2226?style=flat-square" height="28" alt="RAG"> <img src="https://img.shields.io/badge/Agentes%20de%20IA-1F2226?style=flat-square" height="28" alt="Agentes de IA"> <img src="https://img.shields.io/badge/Gemini-1F2226?style=flat-square&logo=googlegemini&logoColor=8EADFF" height="28" alt="Gemini"> <img src="https://img.shields.io/badge/OpenAI-1F2226?style=flat-square&logo=openai&logoColor=FFFFFF" height="28" alt="OpenAI"> <img src="https://img.shields.io/badge/Playwright-1F2226?style=flat-square&logo=playwright&logoColor=2EAD33" height="28" alt="Playwright"> <img src="https://img.shields.io/badge/Vitest-1F2226?style=flat-square&logo=vitest&logoColor=6E9F18" height="28" alt="Vitest"> <img src="https://img.shields.io/badge/Git-1F2226?style=flat-square&logo=git&logoColor=F05032" height="28" alt="Git"></p>
 
 ## Formação
 
