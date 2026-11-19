@@ -104,9 +104,9 @@ Desenvolvimento e manutenção de plataforma SaaS, criação de funcionalidades 
 ## Contato
 
 <p>
-<a href="https://linkedin.com/in/leonardobalk"><img src="assets/profile/buttons/linkedin.svg" height="42" alt="LinkedIn"></a>
-<a href="mailto:leonardo.balk01@gmail.com"><img src="assets/profile/buttons/email.svg" height="42" alt="Email"></a>
-<a href="https://github.com/LeonardoBalk"><img src="assets/profile/buttons/github.svg" height="42" alt="GitHub"></a>
+<a href="https://linkedin.com/in/leonardobalk"><img src="assets/profile/buttons/linkedin-logo.svg" height="42" alt="LinkedIn"></a>
+<a href="mailto:leonardo.balk01@gmail.com"><img src="assets/profile/buttons/email-logo.svg" height="42" alt="Email"></a>
+<a href="https://github.com/LeonardoBalk"><img src="assets/profile/buttons/github-logo.svg" height="42" alt="GitHub"></a>
 </p>
 
 <p align="center"><img src="assets/profile/footer-ptbr-ajustado.svg" width="960" alt="Código. Curiosidade. Consistência. - rodapé com animação discreta"></p>
