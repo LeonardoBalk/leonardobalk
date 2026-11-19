@@ -1,264 +1,114 @@
-<h1 align="center">Leonardo Balk</h1>
-<h3 align="center">Full Stack Developer | Node.js & React</h3>
+<p align="right"><sub>PT-BR · <a href="https://github.com/LeonardoBalk?tab=repositories">Repositórios</a> · <a href="https://linkedin.com/in/leonardobalk">LinkedIn</a></sub></p>
+
+<p align="center"><picture><source media="(max-width: 650px)" srcset="assets/profile/hero-mobile.svg"><img src="assets/profile/hero.svg" width="960" alt="Terminal animado: Leonardo Balk — Full Stack Developer, Backend, IA e Dados"></picture></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/leonardobalk">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:leonardo.balk01@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=LeonardoBalk&style=for-the-badge&color=1a1a2e&label=Visitors"/>
+<a href="#projetos-em-destaque"><img src="assets/profile/buttons/projects.svg" height="40" alt="Projetos"></a>
+<a href="#experiência"><img src="assets/profile/buttons/experience.svg" height="40" alt="Experiência"></a>
+<a href="#tecnologias"><img src="assets/profile/buttons/stack.svg" height="40" alt="Tecnologias"></a>
+<a href="#contato"><img src="assets/profile/buttons/contact.svg" height="40" alt="Contato"></a>
 </p>
 
----
+## Olá, eu sou o Leonardo
 
-## Sobre mim
+Desenvolvedor **Full Stack**, estudante de **Sistemas de Informação na UFSM**. Gosto de transformar problemas em aplicações reais — especialmente no **backend**, com APIs, arquitetura de serviços, dados e integração de inteligência artificial.
 
-```yaml
-nome: Leonardo Garcia Balk
-localização: Santa Maria, RS - Brasil
-formação: Sistemas de Informação @ UFSM (2023-2027)
-foco_principal:
-  - Node.js & Express
-  - React & TypeScript
-  - APIs REST & integração de IA (RAG)
-  - Supabase & PostgreSQL
-```
-
----
-
-## Stack principal
-
-**Linguagens**
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux--Saga-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-**Tools & DevOps**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
-</p>
-
-<details>
-<summary><b>Tabela completa</b></summary>
-<br>
-
-| Área | Tecnologias |
-|------|-------------|
-| **Backend** | Node.js, Express, NestJS, Java, Python, Spring Boot |
-| **Frontend** | React, Redux-Saga, Next.js, Vite, TypeScript, JavaScript, Tailwind, HTML, CSS |
-| **Banco de dados** | PostgreSQL, Supabase, Firebase, SQL |
-| **DevOps** | Docker, Git, GitHub, AWS |
-| **Outros** | REST APIs, WebSockets, JWT, OAuth, RAG |
-
-</details>
-
----
+Atuei no desenvolvimento de uma plataforma **SaaS utilizada por mais de 1.500 empresas**, com funcionalidades de produto, APIs e testes automatizados. Na iniciação científica da UFSM, trabalho com **ingestão e validação de dados** e ferramentas de IA.
 
 ## Projetos em destaque
 
-### [Tessera](https://github.com/LeonardoBalk/tessera)
-Plataforma de eventos e ingressos com três papéis: organizador, cliente e portaria.
+### 01 / Tessera
 
-<p>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-</p>
+[![Tessera — plataforma de eventos e ingressos](assets/profile/projects/tessera.svg)](https://github.com/LeonardoBalk/tessera)
 
-- Reserva com transação atômica, garantindo que o mesmo lugar nunca seja vendido duas vezes
-- Ingresso com QR assinado via HMAC, validação com quatro estados (válido, inválido, já utilizado, evento errado)
-- Busca de eventos por linguagem natural, extraindo filtros estruturados via IA
-- Integração com Ticketmaster Discovery API
-- Deploy: [tesseratickets.vercel.app](https://tesseratickets.vercel.app/)
+**Plataforma de eventos e ingressos** com diferentes perfis de acesso. Trabalhei com regras de reserva, transações atômicas para evitar conflito na venda de assentos, ingressos com **QR Code assinado por HMAC** e pesquisa de eventos em linguagem natural.
 
----
+`React` · `TypeScript` · `Express` · `Supabase` · `Gemini`
 
-### [HealthLens](https://github.com/LeonardoBalk)
-Plataforma de análise de dados de saúde, com upload e exploração de datasets.
+**[Código](https://github.com/LeonardoBalk/tessera)** · **[Demonstração](https://tesseratickets.vercel.app/)**
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-</p>
+### 02 / HealthLens
 
-- Upload e exploração de datasets (CSV, JSON, XLSX)
-- Estatísticas automáticas e visualizações interativas com Recharts
-- Chat com IA para análise dos dados em linguagem natural (Gemini)
+[![HealthLens — exploração visual de dados](assets/profile/projects/healthlens.svg)](https://github.com/LeonardoBalk/healthlens)
 
----
+Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, com estatísticas, dashboards interativos e consultas em linguagem natural com IA.
 
-### [Assistente Neurocom](https://github.com/LeonardoBalk/assistente-neurocom)
-Backend conversacional com **RAG** e embeddings para contexto semântico.
+`React` · `TypeScript` · `Express` · `Recharts` · `Gemini`
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-</p>
+**[Código](https://github.com/LeonardoBalk/healthlens)** · **[Demonstração](https://healthlens-client.vercel.app/)** *(a base de demonstração pode estar pausada)*
 
-- Autenticação JWT + Google OAuth
-- Integração Google Generative AI (Gemini)
-- WebSocket para comunicação em tempo real
-- Deploy no Render
+### 03 / DECSYS
+
+[![DECSYS — ingestão e validação de dados](assets/profile/projects/decsys.svg)](https://github.com/LeonardoBalk/decsys)
+
+Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e validação de dados**, conectando APIs, armazenamento e publicação de indicadores. Atuação com Python, FastAPI e interfaces web.
+
+`Python` · `FastAPI` · `Next.js` · `Supabase` · `Polars`
+
+**[Código](https://github.com/LeonardoBalk/decsys)**
+
+### 04 / LeopoldinAI
+
+[![LeopoldinAI — agentes de IA](assets/profile/projects/leopoldinai.svg)](https://github.com/LeonardoBalk/agentes)
+
+Sistema experimental de **agentes de IA** para apoiar análise e simulação de cenários fiscais, combinando tarefas especializadas e etapas de validação humana.
+
+`Python` · `CrewAI` · `LLMs`
+
+**[Código](https://github.com/LeonardoBalk/agentes)**
 
 <details>
-<summary><b>Outros projetos</b></summary>
-<br>
+<summary><b>Outros projetos e colaborações</b></summary>
 
-### [Kanban Tarefas](https://github.com/LeonardoBalk/kanban-tarefas)
-Aplicação full-stack com **Go + React** e drag-and-drop.
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
-- Três colunas: A Fazer, Em Progresso, Concluídas
-- Drag and drop para mover tarefas
-- Thread-safe com sync.RWMutex
-- Containerizado com Docker Compose
-
----
-
-### [API Gerenciamento de Irrigação](https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao)
-API RESTful para gerenciamento de pivôs de irrigação agrícola.
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-- Autenticação JWT completa
-- CRUD de pivôs e registros de irrigação
-- Validação de permissões por usuário
-
----
-
-### [Portfolio](https://github.com/LeonardoBalk/portfolio-trabalho-final)
-Site pessoal com design responsivo e boas práticas.
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-- Design responsivo
-- HTML/CSS semântico
-- SEO otimizado
+- **[Trivia Anatômica](https://github.com/elc1074/Trivianatomica)** — projeto acadêmico colaborativo de aprendizagem com trilhas, questões e flashcards.
+- **[Assistente Neurocom](https://github.com/LeonardoBalk/assistente-neurocom)** — backend conversacional com RAG, autenticação e comunicação em tempo real.
+- **[Kanban Tarefas](https://github.com/LeonardoBalk/kanban-tarefas)** — aplicação com Go, React, drag-and-drop e Docker.
+- **[API de Irrigação](https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao)** — API REST com autenticação JWT e controle de permissões.
 
 </details>
 
----
+## Experiência
 
-<p align="center">
-  <a href="https://github.com/LeonardoBalk?tab=repositories">
-    <img src="https://img.shields.io/badge/-Ver%20todos%20os%20repositórios-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+**Iniciação científica · DECSYS / UFSM** — *set/2026 – atual*  
+Desenvolvimento de pipelines de dados, validação e integrações com APIs e modelos de IA, usando Python, FastAPI e ferramentas do ecossistema web.
 
----
-
-## Experiências profissionais
-
-| Período | Cargo | Empresa |
-|---------|-------|---------|
-| **Jan 2026 - Atual** | Estagiário Full Stack | Ouvidor Digital |
-| **Set 2025 - Jan 2026** | Estagiário Full Stack / TI | LAMIC - UFSM |
-| **Ago 2025 - Nov 2025** | Full Stack Developer | Neurocom |
-| **Mai 2025 - Set 2025** | Suporte técnico | Macsul |
-| **Jul 2024 - Mar 2025** | Bolsista de TI | CCSH - UFSM |
-| **Mar 2023 - Ago 2023** | Arquivista | Supertex |
+**Estagiário Full Stack · Ouvidor Digital** — *jan/2026 – nov/2026*  
+Desenvolvimento e manutenção de plataforma SaaS, criação de funcionalidades e APIs, revisão de código, correções e testes automatizados com Vitest e Playwright.
 
 <details>
-<summary><b>Detalhes das experiências</b></summary>
-<br>
+<summary><b>Experiências anteriores</b></summary>
 
-**Ouvidor Digital** | Estagiário Full Stack
-> Desenvolvimento e manutenção de aplicações web com TypeScript, React, Next.js, Node.js, NestJS, Redux-Saga e Firebase. Criação de APIs REST, implementação de features e correção de bugs em ambiente multi-repositório. Testes unitários e end-to-end com Vitest e Playwright.
-
-**LAMIC - UFSM** | Estagiário Full Stack / TI
-> Desenvolvimento de sistemas web internos, integração de APIs REST e suporte à infraestrutura de TI.
-
-**Neurocom** | Full Stack Developer
-> Criação de assistente conversacional com RAG (Node.js, Supabase, Google Gemini), autenticação JWT/Google e WebSocket.
-
-**Macsul** | Suporte técnico
-> Atendimento técnico, manutenção de sistemas de automação comercial e suporte em infraestrutura e redes.
-
-**CCSH - UFSM** | Bolsista de TI
-> Suporte a usuários, manutenção de hardware/software e diagnóstico de problemas técnicos.
+- **LAMIC / UFSM** — desenvolvimento web e suporte de TI (2025–2026).
+- **Neurocom** — desenvolvimento de assistente conversacional com RAG (2025).
+- **CCSH / UFSM** — suporte técnico e infraestrutura (2024–2025).
 
 </details>
 
----
+## Tecnologias
 
-## Formação acadêmica
+**Linguagens e frontend**
 
-| Curso | Instituição | Período | Status |
-|-------|-------------|---------|--------|
-| **Bacharelado em Sistemas de Informação** | UFSM | 2023 - 2027 | Cursando |
-| **Técnico em Administração** | IF Farroupilha | 2020 - 2022 | Concluído |
+<p><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,java&theme=dark&perline=8" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind e Java"></p>
 
----
+**Backend, dados e ferramentas**
 
-## Idiomas
+<p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,postgres,supabase,docker&theme=dark&perline=8" alt="Node.js, NestJS, Express, Python, FastAPI, PostgreSQL, Supabase e Docker"></p>
 
-| Idioma | Nível |
-|--------|-------|
-| Português | Nativo |
-| Inglês | B1 - leitura técnica fluente |
+`APIs REST` · `RAG` · `Agentes de IA` · `Gemini` · `OpenAI` · `Playwright` · `Vitest` · `Git`
 
----
+## Formação
 
-<p align="center">
-  <b>Vamos conversar?</b><br/>
-  <a href="mailto:leonardo.balk01@gmail.com">leonardo.balk01@gmail.com</a> | 
-  <a href="https://wa.me/5555996432639">(55) 99643-2639</a> | 
-  <a href="https://linkedin.com/in/leonardobalk">LinkedIn</a>
+**Sistemas de Informação — UFSM** · 2023–2027, em andamento  
+**Técnico em Administração — IFFar** · 2020–2022
+
+## Contato
+
+<p>
+<a href="https://linkedin.com/in/leonardobalk"><img src="assets/profile/buttons/linkedin.svg" height="42" alt="LinkedIn"></a>
+<a href="mailto:leonardo.balk01@gmail.com"><img src="assets/profile/buttons/email.svg" height="42" alt="Email"></a>
+<a href="https://github.com/LeonardoBalk"><img src="assets/profile/buttons/github.svg" height="42" alt="GitHub"></a>
 </p>
+
+<p align="center"><img src="assets/profile/footer.svg" width="960" alt="Code. Curiosity. Consistency. — rodapé com animação discreta"></p>
+
+<sub>Design original em SVG na paleta Graphite. Inspiração de estrutura: [anjennlical/anjennlical](https://github.com/anjennlical/anjennlical).</sub>
