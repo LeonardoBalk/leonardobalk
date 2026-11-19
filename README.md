@@ -1,6 +1,6 @@
 <p align="right"><sub>PT-BR · <a href="https://github.com/LeonardoBalk?tab=repositories">Repositórios</a> · <a href="https://linkedin.com/in/leonardobalk">LinkedIn</a></sub></p>
 
-<p align="center"><picture><source media="(max-width: 650px)" srcset="assets/profile/hero-mobile-ptbr.svg"><img src="assets/profile/hero-ptbr-perfil-ajustado.svg" width="960" alt="Terminal animado: Leonardo Balk — Desenvolvedor Full Stack, backend, IA e dados"></picture></p>
+<p align="center"><picture><source media="(max-width: 650px)" srcset="assets/profile/hero-mobile-ptbr.svg"><img src="assets/profile/hero-ptbr-perfil-ajustado-hifen.svg" width="960" alt="Terminal animado: Leonardo Balk - Desenvolvedor Full Stack, backend, IA e dados"></picture></p>
 
 <p align="center">
 <a href="#projetos-em-destaque"><img src="assets/profile/buttons/projects-centralizado.svg" height="40" alt="Projetos"></a>
@@ -19,7 +19,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 ### Tessera
 
-[![Tessera — plataforma de eventos e ingressos](assets/profile/projects/tessera-ptbr-ajustado-logos.svg)](https://github.com/LeonardoBalk/tessera)
+[![Tessera - plataforma de eventos e ingressos](assets/profile/projects/tessera-ptbr-ajustado-logos.svg)](https://github.com/LeonardoBalk/tessera)
 
 **Plataforma de eventos e ingressos** com diferentes perfis de acesso. Trabalhei nas regras de reserva e nas transações atômicas que evitam conflitos na venda de assentos. Também trabalhei nos ingressos com **QR Code assinado por HMAC** e na pesquisa de eventos em linguagem natural.
 
@@ -29,7 +29,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 ### HealthLens
 
-[![HealthLens — exploração visual de dados](assets/profile/projects/healthlens-sem-numero-ptbr-logos.svg)](https://github.com/LeonardoBalk/healthlens)
+[![HealthLens - exploração visual de dados](assets/profile/projects/healthlens-sem-numero-ptbr-logos.svg)](https://github.com/LeonardoBalk/healthlens)
 
 Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, com estatísticas, painéis interativos e consultas em linguagem natural com IA.
 
@@ -39,7 +39,7 @@ Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, c
 
 ### DECSYS
 
-[![DECSYS — ingestão e validação de dados](assets/profile/projects/decsys-sem-numero-ptbr-logos.svg)](https://github.com/LeonardoBalk/decsys)
+[![DECSYS - ingestão e validação de dados](assets/profile/projects/decsys-sem-numero-ptbr-logos.svg)](https://github.com/LeonardoBalk/decsys)
 
 Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e validação de dados**, conectando APIs, armazenamento e publicação de indicadores. Atuação com Python, FastAPI e interfaces web.
 
@@ -49,7 +49,7 @@ Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e valida
 
 ### LeopoldinAI
 
-[![LeopoldinAI — agentes de IA](assets/profile/projects/leopoldinai-agente.svg)](https://github.com/LeonardoBalk/agentes)
+[![LeopoldinAI - agentes de IA](assets/profile/projects/leopoldinai-agente.svg)](https://github.com/LeonardoBalk/agentes)
 
 Sistema experimental com um **agente de IA** para apoiar a análise e a simulação de cenários fiscais. O projeto combina ferramentas de análise com validação humana.
 
@@ -60,27 +60,27 @@ Sistema experimental com um **agente de IA** para apoiar a análise e a simulaç
 <details>
 <summary><b>Outros projetos e colaborações</b></summary>
 
-- **[Trivia Anatômica](https://github.com/elc1074/Trivianatomica)** — projeto acadêmico colaborativo de aprendizagem com trilhas, questões e flashcards.
-- **[Assistente Neurocom](https://github.com/LeonardoBalk/assistente-neurocom)** — backend conversacional com RAG, autenticação e comunicação em tempo real.
-- **[Kanban Tarefas](https://github.com/LeonardoBalk/kanban-tarefas)** — aplicação com Go, React, arrastar e soltar e Docker.
-- **[API de Irrigação](https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao)** — API REST com autenticação JWT e controle de permissões.
+- **[Trivia Anatômica](https://github.com/elc1074/Trivianatomica)** - projeto acadêmico colaborativo de aprendizagem com trilhas, questões e flashcards.
+- **[Assistente Neurocom](https://github.com/LeonardoBalk/assistente-neurocom)** - backend conversacional com RAG, autenticação e comunicação em tempo real.
+- **[Kanban Tarefas](https://github.com/LeonardoBalk/kanban-tarefas)** - aplicação com Go, React, arrastar e soltar e Docker.
+- **[API de Irrigação](https://github.com/LeonardoBalk/API-Gerenciamento-de-Irrigacao)** - API REST com autenticação JWT e controle de permissões.
 
 </details>
 
 ## Experiência
 
-**Iniciação científica · DECSYS / UFSM** — *set/2026 – atual*  
+**Iniciação científica · DECSYS / UFSM** - *set/2026 – atual*  
 Desenvolvimento de fluxos de dados, validação e integrações com APIs e modelos de IA, usando Python, FastAPI e ferramentas do ecossistema web.
 
-**Estagiário Full Stack · Ouvidor Digital** — *jan/2026 – nov/2026*  
+**Estagiário Full Stack · Ouvidor Digital** - *jan/2026 – nov/2026*  
 Desenvolvimento e manutenção de plataforma SaaS, criação de funcionalidades e APIs, revisão de código, correções e testes automatizados com Vitest e Playwright.
 
 <details>
 <summary><b>Experiências anteriores</b></summary>
 
-- **LAMIC / UFSM** — desenvolvimento web e suporte de TI (2025–2026).
-- **Neurocom** — desenvolvimento de assistente conversacional com RAG (2025).
-- **CCSH / UFSM** — suporte técnico e infraestrutura (2024–2025).
+- **LAMIC / UFSM** - desenvolvimento web e suporte de TI (2025–2026).
+- **Neurocom** - desenvolvimento de assistente conversacional com RAG (2025).
+- **CCSH / UFSM** - suporte técnico e infraestrutura (2024–2025).
 
 </details>
 
@@ -98,8 +98,8 @@ Desenvolvimento e manutenção de plataforma SaaS, criação de funcionalidades 
 
 ## Formação
 
-**Sistemas de Informação — UFSM** · 2023–2027, em andamento  
-**Técnico em Administração — IFFar** · 2020–2022
+**Sistemas de Informação - UFSM** · 2023–2027, em andamento  
+**Técnico em Administração - IFFar** · 2020–2022
 
 ## Contato
 
@@ -109,6 +109,6 @@ Desenvolvimento e manutenção de plataforma SaaS, criação de funcionalidades 
 <a href="https://github.com/LeonardoBalk"><img src="assets/profile/buttons/github.svg" height="42" alt="GitHub"></a>
 </p>
 
-<p align="center"><img src="assets/profile/footer-ptbr-ajustado.svg" width="960" alt="Código. Curiosidade. Consistência. — rodapé com animação discreta"></p>
+<p align="center"><img src="assets/profile/footer-ptbr-ajustado.svg" width="960" alt="Código. Curiosidade. Consistência. - rodapé com animação discreta"></p>
 
 <sub>Design original em SVG na paleta Graphite. Inspiração de estrutura: [anjennlical/anjennlical](https://github.com/anjennlical/anjennlical).</sub>
