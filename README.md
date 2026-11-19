@@ -11,9 +11,9 @@
 
 ## Olá, eu sou o Leonardo
 
-Desenvolvedor **Full Stack**, estudante de **Sistemas de Informação na UFSM**. Gosto de transformar problemas em aplicações reais — especialmente no **backend**, com APIs, arquitetura de serviços, dados e integração de inteligência artificial.
+Sou desenvolvedor **Full Stack** e estudante de **Sistemas de Informação na UFSM**. Gosto de transformar problemas em aplicações reais. Tenho interesse especial em **backend**, APIs, arquitetura de serviços, dados e integração de inteligência artificial.
 
-Atuei no desenvolvimento de uma plataforma **SaaS utilizada por mais de 1.500 empresas**, com funcionalidades de produto, APIs e testes automatizados. Na iniciação científica da UFSM, trabalho com **ingestão e validação de dados** e ferramentas de IA.
+Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empresas**, trabalhando em funcionalidades, APIs e testes automatizados. Na iniciação científica da UFSM, trabalho com **ingestão e validação de dados** e ferramentas de IA.
 
 ## Projetos em destaque
 
@@ -21,7 +21,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS utilizada por mais de 1.500 em
 
 [![Tessera — plataforma de eventos e ingressos](assets/profile/projects/tessera.svg)](https://github.com/LeonardoBalk/tessera)
 
-**Plataforma de eventos e ingressos** com diferentes perfis de acesso. Trabalhei com regras de reserva, transações atômicas para evitar conflito na venda de assentos, ingressos com **QR Code assinado por HMAC** e pesquisa de eventos em linguagem natural.
+**Plataforma de eventos e ingressos** com diferentes perfis de acesso. Trabalhei nas regras de reserva e nas transações atômicas que evitam conflitos na venda de assentos. Também trabalhei nos ingressos com **QR Code assinado por HMAC** e na pesquisa de eventos em linguagem natural.
 
 `React` · `TypeScript` · `Express` · `Supabase` · `Gemini`
 
@@ -51,7 +51,7 @@ Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e valida
 
 [![LeopoldinAI — agentes de IA](assets/profile/projects/leopoldinai.svg)](https://github.com/LeonardoBalk/agentes)
 
-Sistema experimental de **agentes de IA** para apoiar análise e simulação de cenários fiscais, combinando tarefas especializadas e etapas de validação humana.
+Sistema experimental de **agentes de IA** para apoiar a análise e a simulação de cenários fiscais. O projeto combina tarefas especializadas com etapas de validação humana.
 
 `Python` · `CrewAI` · `LLMs`
 
