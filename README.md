@@ -49,9 +49,9 @@ Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e valida
 
 ### LeopoldinAI
 
-[![LeopoldinAI — agentes de IA](assets/profile/projects/leopoldinai-sem-numero-ptbr-logos.svg)](https://github.com/LeonardoBalk/agentes)
+[![LeopoldinAI — agentes de IA](assets/profile/projects/leopoldinai-agente.svg)](https://github.com/LeonardoBalk/agentes)
 
-Sistema experimental de **agentes de IA** para apoiar a análise e a simulação de cenários fiscais. O projeto combina tarefas especializadas com etapas de validação humana.
+Sistema experimental com um **agente de IA** para apoiar a análise e a simulação de cenários fiscais. O projeto combina ferramentas de análise com validação humana.
 
 <p><img src="https://img.shields.io/badge/Python-1F2226?style=flat-square&logo=python&logoColor=FFDD54" height="28" alt="Python"> <img src="https://img.shields.io/badge/CrewAI-1F2226?style=flat-square" height="28" alt="CrewAI"> <img src="https://img.shields.io/badge/LLMs-1F2226?style=flat-square" height="28" alt="LLMs"></p>
 
