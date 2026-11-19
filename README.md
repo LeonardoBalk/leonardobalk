@@ -19,7 +19,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 ### Tessera
 
-[![Tessera — plataforma de eventos e ingressos](assets/profile/projects/tessera.svg)](https://github.com/LeonardoBalk/tessera)
+[![Tessera — plataforma de eventos e ingressos](assets/profile/projects/tessera-sem-numero.svg)](https://github.com/LeonardoBalk/tessera)
 
 **Plataforma de eventos e ingressos** com diferentes perfis de acesso. Trabalhei nas regras de reserva e nas transações atômicas que evitam conflitos na venda de assentos. Também trabalhei nos ingressos com **QR Code assinado por HMAC** e na pesquisa de eventos em linguagem natural.
 
@@ -29,7 +29,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 ### HealthLens
 
-[![HealthLens — exploração visual de dados](assets/profile/projects/healthlens.svg)](https://github.com/LeonardoBalk/healthlens)
+[![HealthLens — exploração visual de dados](assets/profile/projects/healthlens-sem-numero.svg)](https://github.com/LeonardoBalk/healthlens)
 
 Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, com estatísticas, dashboards interativos e consultas em linguagem natural com IA.
 
@@ -39,7 +39,7 @@ Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, c
 
 ### DECSYS
 
-[![DECSYS — ingestão e validação de dados](assets/profile/projects/decsys.svg)](https://github.com/LeonardoBalk/decsys)
+[![DECSYS — ingestão e validação de dados](assets/profile/projects/decsys-sem-numero.svg)](https://github.com/LeonardoBalk/decsys)
 
 Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e validação de dados**, conectando APIs, armazenamento e publicação de indicadores. Atuação com Python, FastAPI e interfaces web.
 
@@ -49,7 +49,7 @@ Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e valida
 
 ### LeopoldinAI
 
-[![LeopoldinAI — agentes de IA](assets/profile/projects/leopoldinai.svg)](https://github.com/LeonardoBalk/agentes)
+[![LeopoldinAI — agentes de IA](assets/profile/projects/leopoldinai-sem-numero.svg)](https://github.com/LeonardoBalk/agentes)
 
 Sistema experimental de **agentes de IA** para apoiar a análise e a simulação de cenários fiscais. O projeto combina tarefas especializadas com etapas de validação humana.
 
