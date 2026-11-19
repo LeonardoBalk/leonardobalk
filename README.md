@@ -1,6 +1,6 @@
 <p align="right"><sub>PT-BR · <a href="https://github.com/LeonardoBalk?tab=repositories">Repositórios</a> · <a href="https://linkedin.com/in/leonardobalk">LinkedIn</a></sub></p>
 
-<p align="center"><picture><source media="(max-width: 650px)" srcset="assets/profile/hero-mobile-ptbr.svg"><img src="assets/profile/hero-ptbr.svg" width="960" alt="Terminal animado: Leonardo Balk — Desenvolvedor Full Stack, backend, IA e dados"></picture></p>
+<p align="center"><picture><source media="(max-width: 650px)" srcset="assets/profile/hero-mobile-ptbr.svg"><img src="assets/profile/hero-ptbr-perfil.svg" width="960" alt="Terminal animado: Leonardo Balk — Desenvolvedor Full Stack, backend, IA e dados"></picture></p>
 
 <p align="center">
 <a href="#projetos-em-destaque"><img src="assets/profile/buttons/projects.svg" height="40" alt="Projetos"></a>
