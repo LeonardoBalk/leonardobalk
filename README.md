@@ -3,10 +3,10 @@
 <p align="center"><picture><source media="(max-width: 650px)" srcset="assets/profile/hero-mobile-ptbr.svg"><img src="assets/profile/hero-ptbr-perfil-ajustado.svg" width="960" alt="Terminal animado: Leonardo Balk — Desenvolvedor Full Stack, backend, IA e dados"></picture></p>
 
 <p align="center">
-<a href="#projetos-em-destaque"><img src="assets/profile/buttons/projects.svg" height="40" alt="Projetos"></a>
-<a href="#experiência"><img src="assets/profile/buttons/experience.svg" height="40" alt="Experiência"></a>
-<a href="#tecnologias"><img src="assets/profile/buttons/stack.svg" height="40" alt="Tecnologias"></a>
-<a href="#contato"><img src="assets/profile/buttons/contact.svg" height="40" alt="Contato"></a>
+<a href="#projetos-em-destaque"><img src="assets/profile/buttons/projects-centralizado.svg" height="40" alt="Projetos"></a>
+<a href="#experiência"><img src="assets/profile/buttons/experience-centralizado.svg" height="40" alt="Experiência"></a>
+<a href="#tecnologias"><img src="assets/profile/buttons/stack-centralizado.svg" height="40" alt="Tecnologias"></a>
+<a href="#contato"><img src="assets/profile/buttons/contact-centralizado.svg" height="40" alt="Contato"></a>
 </p>
 
 ## Olá, eu sou o Leonardo
