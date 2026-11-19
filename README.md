@@ -1,6 +1,6 @@
 <p align="right"><sub>PT-BR · <a href="https://github.com/LeonardoBalk?tab=repositories">Repositórios</a> · <a href="https://linkedin.com/in/leonardobalk">LinkedIn</a></sub></p>
 
-<p align="center"><picture><source media="(max-width: 650px)" srcset="assets/profile/hero-mobile-ptbr.svg"><img src="assets/profile/hero-ptbr-perfil.svg" width="960" alt="Terminal animado: Leonardo Balk — Desenvolvedor Full Stack, backend, IA e dados"></picture></p>
+<p align="center"><picture><source media="(max-width: 650px)" srcset="assets/profile/hero-mobile-ptbr.svg"><img src="assets/profile/hero-ptbr-perfil-ajustado.svg" width="960" alt="Terminal animado: Leonardo Balk — Desenvolvedor Full Stack, backend, IA e dados"></picture></p>
 
 <p align="center">
 <a href="#projetos-em-destaque"><img src="assets/profile/buttons/projects.svg" height="40" alt="Projetos"></a>
@@ -19,7 +19,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 ### Tessera
 
-[![Tessera — plataforma de eventos e ingressos](assets/profile/projects/tessera-sem-numero-ptbr.svg)](https://github.com/LeonardoBalk/tessera)
+[![Tessera — plataforma de eventos e ingressos](assets/profile/projects/tessera-ptbr-ajustado.svg)](https://github.com/LeonardoBalk/tessera)
 
 **Plataforma de eventos e ingressos** com diferentes perfis de acesso. Trabalhei nas regras de reserva e nas transações atômicas que evitam conflitos na venda de assentos. Também trabalhei nos ingressos com **QR Code assinado por HMAC** e na pesquisa de eventos em linguagem natural.
 
@@ -109,6 +109,6 @@ Desenvolvimento e manutenção de plataforma SaaS, criação de funcionalidades 
 <a href="https://github.com/LeonardoBalk"><img src="assets/profile/buttons/github.svg" height="42" alt="GitHub"></a>
 </p>
 
-<p align="center"><img src="assets/profile/footer-ptbr.svg" width="960" alt="Código. Curiosidade. Consistência. — rodapé com animação discreta"></p>
+<p align="center"><img src="assets/profile/footer-ptbr-ajustado.svg" width="960" alt="Código. Curiosidade. Consistência. — rodapé com animação discreta"></p>
 
 <sub>Design original em SVG na paleta Graphite. Inspiração de estrutura: [anjennlical/anjennlical](https://github.com/anjennlical/anjennlical).</sub>
