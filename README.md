@@ -17,7 +17,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 ### <img src="assets/profile/project-logos/tessera-titulo.svg" height="32" alt="Tessera">
 
-[![Tessera - plataforma de eventos e ingressos](assets/profile/projects/tessera-ptbr-ajustado-logos.svg)](https://github.com/LeonardoBalk/tessera)
+[![Tessera - plataforma de eventos e ingressos](assets/profile/projects/tessera-ptbr-ajustado-logos-limpo.svg)](https://github.com/LeonardoBalk/tessera)
 
 **Plataforma de eventos e ingressos** com diferentes perfis de acesso. Trabalhei nas regras de reserva e nas transações atômicas que evitam conflitos na venda de assentos. Também trabalhei nos ingressos com **QR Code assinado por HMAC** e na pesquisa de eventos em linguagem natural.
 
@@ -27,7 +27,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 ### <img src="assets/profile/project-logos/healthlens-titulo.svg" height="32" alt="HealthLens">
 
-[![HealthLens - exploração visual de dados](assets/profile/projects/healthlens-sem-numero-ptbr-logos.svg)](https://github.com/LeonardoBalk/healthlens)
+[![HealthLens - exploração visual de dados](assets/profile/projects/healthlens-sem-numero-ptbr-logos-limpo.svg)](https://github.com/LeonardoBalk/healthlens)
 
 Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, com estatísticas, painéis interativos e consultas em linguagem natural com IA.
 
@@ -39,7 +39,7 @@ Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, c
 
 ### DECSYS
 
-![DECSYS - ingestão e validação de dados](assets/profile/projects/decsys-sem-numero-ptbr-logos.svg)
+![DECSYS - ingestão e validação de dados](assets/profile/projects/decsys-sem-numero-ptbr-logos-limpo.svg)
 
 Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e validação de dados**, conectando APIs, armazenamento e publicação de indicadores. Atuação com Python, FastAPI e interfaces web.
 
@@ -49,7 +49,7 @@ Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e valida
 
 ### <img src="assets/profile/project-logos/leopoldinai-titulo.svg" height="32" alt="LeopoldinAI">
 
-[![LeopoldinAI - agentes de IA](assets/profile/projects/leopoldinai-agente.svg)](https://github.com/LeonardoBalk/agentes)
+[![LeopoldinAI - agentes de IA](assets/profile/projects/leopoldinai-agente-limpo.svg)](https://github.com/LeonardoBalk/agentes)
 
 Sistema experimental com um **agente de IA** para apoiar a análise e a simulação de cenários fiscais. O projeto combina ferramentas de análise com validação humana.
 
