@@ -23,7 +23,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 **Plataforma de eventos e ingressos** com diferentes perfis de acesso. Trabalhei nas regras de reserva e nas transações atômicas que evitam conflitos na venda de assentos. Também trabalhei nos ingressos com **QR Code assinado por HMAC** e na pesquisa de eventos em linguagem natural.
 
-<p><img src="https://skillicons.dev/icons?i=react,ts,express,supabase&theme=dark" height="40" alt="React, TypeScript, Express e Supabase"> <img src="https://img.shields.io/badge/Gemini-1F2226?style=for-the-badge&logo=googlegemini&logoColor=8EADFF" height="40" alt="Gemini"></p>
+<p><img src="https://img.shields.io/badge/React-1F2226?style=flat-square&logo=react&logoColor=61DAFB" height="28" alt="React"> <img src="https://img.shields.io/badge/TypeScript-1F2226?style=flat-square&logo=typescript&logoColor=3178C6" height="28" alt="TypeScript"> <img src="https://img.shields.io/badge/Express-1F2226?style=flat-square&logo=express&logoColor=FFFFFF" height="28" alt="Express"> <img src="https://img.shields.io/badge/Supabase-1F2226?style=flat-square&logo=supabase&logoColor=3ECF8E" height="28" alt="Supabase"> <img src="https://img.shields.io/badge/Gemini-1F2226?style=flat-square&logo=googlegemini&logoColor=8EADFF" height="28" alt="Gemini"></p>
 
 **[Código](https://github.com/LeonardoBalk/tessera)** · **[Demonstração](https://tesseratickets.vercel.app/)**
 
@@ -33,7 +33,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, com estatísticas, dashboards interativos e consultas em linguagem natural com IA.
 
-<p><img src="https://skillicons.dev/icons?i=react,ts,express&theme=dark" height="40" alt="React, TypeScript e Express"> <img src="https://img.shields.io/badge/Recharts-1F2226?style=for-the-badge" height="40" alt="Recharts"> <img src="https://img.shields.io/badge/Gemini-1F2226?style=for-the-badge&logo=googlegemini&logoColor=8EADFF" height="40" alt="Gemini"></p>
+<p><img src="https://img.shields.io/badge/React-1F2226?style=flat-square&logo=react&logoColor=61DAFB" height="28" alt="React"> <img src="https://img.shields.io/badge/TypeScript-1F2226?style=flat-square&logo=typescript&logoColor=3178C6" height="28" alt="TypeScript"> <img src="https://img.shields.io/badge/Express-1F2226?style=flat-square&logo=express&logoColor=FFFFFF" height="28" alt="Express"> <img src="https://img.shields.io/badge/Recharts-1F2226?style=flat-square" height="28" alt="Recharts"> <img src="https://img.shields.io/badge/Gemini-1F2226?style=flat-square&logo=googlegemini&logoColor=8EADFF" height="28" alt="Gemini"></p>
 
 **[Código](https://github.com/LeonardoBalk/healthlens)** · **[Demonstração](https://healthlens-client.vercel.app/)** *(a base de demonstração pode estar pausada)*
 
@@ -43,7 +43,7 @@ Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, c
 
 Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e validação de dados**, conectando APIs, armazenamento e publicação de indicadores. Atuação com Python, FastAPI e interfaces web.
 
-<p><img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,supabase&theme=dark" height="40" alt="Python, FastAPI, Next.js e Supabase"> <img src="https://img.shields.io/badge/Polars-1F2226?style=for-the-badge&logo=polars&logoColor=CD792C" height="40" alt="Polars"></p>
+<p><img src="https://img.shields.io/badge/Python-1F2226?style=flat-square&logo=python&logoColor=FFDD54" height="28" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-1F2226?style=flat-square&logo=fastapi&logoColor=00C7B1" height="28" alt="FastAPI"> <img src="https://img.shields.io/badge/Next.js-1F2226?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" height="28" alt="Next.js"> <img src="https://img.shields.io/badge/Supabase-1F2226?style=flat-square&logo=supabase&logoColor=3ECF8E" height="28" alt="Supabase"> <img src="https://img.shields.io/badge/Polars-1F2226?style=flat-square&logo=polars&logoColor=CD792C" height="28" alt="Polars"></p>
 
 **[Código](https://github.com/LeonardoBalk/decsys)**
 
@@ -53,7 +53,7 @@ Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e valida
 
 Sistema experimental de **agentes de IA** para apoiar a análise e a simulação de cenários fiscais. O projeto combina tarefas especializadas com etapas de validação humana.
 
-<p><img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python"> <img src="https://img.shields.io/badge/CrewAI-1F2226?style=for-the-badge" height="40" alt="CrewAI"> <img src="https://img.shields.io/badge/LLMs-1F2226?style=for-the-badge" height="40" alt="LLMs"></p>
+<p><img src="https://img.shields.io/badge/Python-1F2226?style=flat-square&logo=python&logoColor=FFDD54" height="28" alt="Python"> <img src="https://img.shields.io/badge/CrewAI-1F2226?style=flat-square" height="28" alt="CrewAI"> <img src="https://img.shields.io/badge/LLMs-1F2226?style=flat-square" height="28" alt="LLMs"></p>
 
 **[Código](https://github.com/LeonardoBalk/agentes)**
 
