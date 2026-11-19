@@ -9,7 +9,7 @@
 <a href="#contato"><img src="assets/profile/buttons/contact-centralizado.svg" height="40" alt="Contato"></a>
 </p>
 
-## Olá, eu sou o Leonardo
+## Sobre mim
 
 Sou desenvolvedor **Full Stack** e estudante de **Sistemas de Informação na UFSM**. Gosto de transformar problemas em aplicações reais. Tenho interesse especial em **backend**, APIs, arquitetura de serviços, dados e integração de inteligência artificial.
 
