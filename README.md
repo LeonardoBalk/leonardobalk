@@ -25,7 +25,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 <p><img src="https://img.shields.io/badge/React-1F2226?style=flat-square&logo=react&logoColor=61DAFB" height="28" alt="React"> <img src="https://img.shields.io/badge/TypeScript-1F2226?style=flat-square&logo=typescript&logoColor=3178C6" height="28" alt="TypeScript"> <img src="https://img.shields.io/badge/Express-1F2226?style=flat-square&logo=express&logoColor=FFFFFF" height="28" alt="Express"> <img src="https://img.shields.io/badge/Supabase-1F2226?style=flat-square&logo=supabase&logoColor=3ECF8E" height="28" alt="Supabase"> <img src="https://img.shields.io/badge/Gemini-1F2226?style=flat-square&logo=googlegemini&logoColor=8EADFF" height="28" alt="Gemini"></p>
 
-**[Código](https://github.com/LeonardoBalk/tessera)** · **[Demonstração](https://tesseratickets.vercel.app/)**
+<p><a href="https://github.com/LeonardoBalk/tessera"><img src="assets/profile/buttons/code-acao.svg" height="40" alt="Ver código"></a> <a href="https://tesseratickets.vercel.app/"><img src="assets/profile/buttons/demo-acao.svg" height="40" alt="Ver demonstração"></a></p>
 
 ### HealthLens
 
@@ -35,7 +35,9 @@ Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, c
 
 <p><img src="https://img.shields.io/badge/React-1F2226?style=flat-square&logo=react&logoColor=61DAFB" height="28" alt="React"> <img src="https://img.shields.io/badge/TypeScript-1F2226?style=flat-square&logo=typescript&logoColor=3178C6" height="28" alt="TypeScript"> <img src="https://img.shields.io/badge/Express-1F2226?style=flat-square&logo=express&logoColor=FFFFFF" height="28" alt="Express"> <img src="https://img.shields.io/badge/Recharts-1F2226?style=flat-square" height="28" alt="Recharts"> <img src="https://img.shields.io/badge/Gemini-1F2226?style=flat-square&logo=googlegemini&logoColor=8EADFF" height="28" alt="Gemini"></p>
 
-**[Código](https://github.com/LeonardoBalk/healthlens)** · **[Demonstração](https://healthlens-client.vercel.app/)** *(a base de demonstração pode estar pausada)*
+<p><a href="https://github.com/LeonardoBalk/healthlens"><img src="assets/profile/buttons/code-acao.svg" height="40" alt="Ver código"></a> <a href="https://healthlens-client.vercel.app/"><img src="assets/profile/buttons/demo-acao.svg" height="40" alt="Ver demonstração"></a></p>
+
+*A base de demonstração pode estar pausada.*
 
 ### DECSYS
 
@@ -45,7 +47,7 @@ Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e valida
 
 <p><img src="https://img.shields.io/badge/Python-1F2226?style=flat-square&logo=python&logoColor=FFDD54" height="28" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-1F2226?style=flat-square&logo=fastapi&logoColor=00C7B1" height="28" alt="FastAPI"> <img src="https://img.shields.io/badge/Next.js-1F2226?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" height="28" alt="Next.js"> <img src="https://img.shields.io/badge/Supabase-1F2226?style=flat-square&logo=supabase&logoColor=3ECF8E" height="28" alt="Supabase"> <img src="https://img.shields.io/badge/Polars-1F2226?style=flat-square&logo=polars&logoColor=CD792C" height="28" alt="Polars"></p>
 
-**[Código](https://github.com/LeonardoBalk/decsys)**
+<p><a href="https://github.com/LeonardoBalk/decsys"><img src="assets/profile/buttons/code-acao.svg" height="40" alt="Ver código"></a></p>
 
 ### LeopoldinAI
 
@@ -55,7 +57,7 @@ Sistema experimental com um **agente de IA** para apoiar a análise e a simulaç
 
 <p><img src="https://img.shields.io/badge/Python-1F2226?style=flat-square&logo=python&logoColor=FFDD54" height="28" alt="Python"> <img src="https://img.shields.io/badge/CrewAI-1F2226?style=flat-square" height="28" alt="CrewAI"> <img src="https://img.shields.io/badge/LLMs-1F2226?style=flat-square" height="28" alt="LLMs"></p>
 
-**[Código](https://github.com/LeonardoBalk/agentes)**
+<p><a href="https://github.com/LeonardoBalk/agentes"><img src="assets/profile/buttons/code-acao.svg" height="40" alt="Ver código"></a></p>
 
 <details>
 <summary><b>Outros projetos e colaborações</b></summary>
@@ -109,5 +111,5 @@ Desenvolvimento e manutenção de plataforma SaaS, criação de funcionalidades 
 <a href="https://github.com/LeonardoBalk"><img src="assets/profile/buttons/github-logo.svg" height="42" alt="GitHub"></a>
 </p>
 
-<p align="center"><img src="assets/profile/footer-ptbr-ajustado.svg" width="960" alt="Código. Curiosidade. Consistência. - rodapé com animação discreta"></p>
+<p align="center"><img src="assets/profile/footer-terminal.svg" width="960" alt="Código. Curiosidade. Consistência. - rodapé com animação discreta"></p>
 
