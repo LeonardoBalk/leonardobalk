@@ -17,7 +17,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 ## Projetos em destaque
 
-### <img src="assets/profile/project-logos/tessera.png" width="34" height="34" alt=""> Tessera
+### <img src="assets/profile/project-logos/tessera.png" width="20" height="20" alt=""> Tessera
 
 [![Tessera - plataforma de eventos e ingressos](assets/profile/projects/tessera-ptbr-ajustado-logos.svg)](https://github.com/LeonardoBalk/tessera)
 
@@ -27,7 +27,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 <p><a href="https://github.com/LeonardoBalk/tessera"><img src="assets/profile/buttons/code-acao.svg" height="40" alt="Ver código"></a> <a href="https://tesseratickets.vercel.app/"><img src="assets/profile/buttons/demo-acao.svg" height="40" alt="Ver demonstração"></a></p>
 
-### <img src="assets/profile/project-logos/healthlens.svg" width="34" height="34" alt=""> HealthLens
+### <img src="assets/profile/project-logos/healthlens-coracao.svg" width="20" height="20" alt=""> HealthLens
 
 [![HealthLens - exploração visual de dados](assets/profile/projects/healthlens-sem-numero-ptbr-logos.svg)](https://github.com/LeonardoBalk/healthlens)
 
@@ -49,7 +49,7 @@ Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e valida
 
 *Repositório privado.*
 
-### <img src="assets/profile/project-logos/leopoldinai.png" width="34" height="34" alt=""> LeopoldinAI
+### <img src="assets/profile/project-logos/leopoldinai.png" width="20" height="20" alt=""> LeopoldinAI
 
 [![LeopoldinAI - agentes de IA](assets/profile/projects/leopoldinai-agente.svg)](https://github.com/LeonardoBalk/agentes)
 
