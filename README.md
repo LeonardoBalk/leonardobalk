@@ -111,4 +111,3 @@ Desenvolvimento e manutenção de plataforma SaaS, criação de funcionalidades 
 
 <p align="center"><img src="assets/profile/footer-ptbr-ajustado.svg" width="960" alt="Código. Curiosidade. Consistência. - rodapé com animação discreta"></p>
 
-<sub>Design original em SVG na paleta Graphite. Inspiração de estrutura: [anjennlical/anjennlical](https://github.com/anjennlical/anjennlical).</sub>
