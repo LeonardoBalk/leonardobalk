@@ -17,7 +17,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 ## Projetos em destaque
 
-### 01 / Tessera
+### Tessera
 
 [![Tessera — plataforma de eventos e ingressos](assets/profile/projects/tessera.svg)](https://github.com/LeonardoBalk/tessera)
 
@@ -27,7 +27,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 **[Código](https://github.com/LeonardoBalk/tessera)** · **[Demonstração](https://tesseratickets.vercel.app/)**
 
-### 02 / HealthLens
+### HealthLens
 
 [![HealthLens — exploração visual de dados](assets/profile/projects/healthlens.svg)](https://github.com/LeonardoBalk/healthlens)
 
@@ -37,7 +37,7 @@ Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, c
 
 **[Código](https://github.com/LeonardoBalk/healthlens)** · **[Demonstração](https://healthlens-client.vercel.app/)** *(a base de demonstração pode estar pausada)*
 
-### 03 / DECSYS
+### DECSYS
 
 [![DECSYS — ingestão e validação de dados](assets/profile/projects/decsys.svg)](https://github.com/LeonardoBalk/decsys)
 
@@ -47,7 +47,7 @@ Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e valida
 
 **[Código](https://github.com/LeonardoBalk/decsys)**
 
-### 04 / LeopoldinAI
+### LeopoldinAI
 
 [![LeopoldinAI — agentes de IA](assets/profile/projects/leopoldinai.svg)](https://github.com/LeonardoBalk/agentes)
 
