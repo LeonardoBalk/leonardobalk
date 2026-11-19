@@ -17,7 +17,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 ## Projetos em destaque
 
-### Tessera
+### <img src="assets/profile/project-logos/tessera.png" width="34" height="34" alt=""> Tessera
 
 [![Tessera - plataforma de eventos e ingressos](assets/profile/projects/tessera-ptbr-ajustado-logos.svg)](https://github.com/LeonardoBalk/tessera)
 
@@ -27,7 +27,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 <p><a href="https://github.com/LeonardoBalk/tessera"><img src="assets/profile/buttons/code-acao.svg" height="40" alt="Ver código"></a> <a href="https://tesseratickets.vercel.app/"><img src="assets/profile/buttons/demo-acao.svg" height="40" alt="Ver demonstração"></a></p>
 
-### HealthLens
+### <img src="assets/profile/project-logos/healthlens.svg" width="34" height="34" alt=""> HealthLens
 
 [![HealthLens - exploração visual de dados](assets/profile/projects/healthlens-sem-numero-ptbr-logos.svg)](https://github.com/LeonardoBalk/healthlens)
 
@@ -41,15 +41,15 @@ Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, c
 
 ### DECSYS
 
-[![DECSYS - ingestão e validação de dados](assets/profile/projects/decsys-sem-numero-ptbr-logos.svg)](https://github.com/LeonardoBalk/decsys)
+![DECSYS - ingestão e validação de dados](assets/profile/projects/decsys-sem-numero-ptbr-logos.svg)
 
 Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e validação de dados**, conectando APIs, armazenamento e publicação de indicadores. Atuação com Python, FastAPI e interfaces web.
 
 <p><img src="https://img.shields.io/badge/Python-1F2226?style=flat-square&logo=python&logoColor=FFDD54" height="28" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-1F2226?style=flat-square&logo=fastapi&logoColor=00C7B1" height="28" alt="FastAPI"> <img src="https://img.shields.io/badge/Next.js-1F2226?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" height="28" alt="Next.js"> <img src="https://img.shields.io/badge/Supabase-1F2226?style=flat-square&logo=supabase&logoColor=3ECF8E" height="28" alt="Supabase"> <img src="https://img.shields.io/badge/Polars-1F2226?style=flat-square&logo=polars&logoColor=CD792C" height="28" alt="Polars"></p>
 
-<p><a href="https://github.com/LeonardoBalk/decsys"><img src="assets/profile/buttons/code-acao.svg" height="40" alt="Ver código"></a></p>
+*Repositório privado.*
 
-### LeopoldinAI
+### <img src="assets/profile/project-logos/leopoldinai.png" width="34" height="34" alt=""> LeopoldinAI
 
 [![LeopoldinAI - agentes de IA](assets/profile/projects/leopoldinai-agente.svg)](https://github.com/LeonardoBalk/agentes)
 
