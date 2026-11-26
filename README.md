@@ -21,7 +21,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 **Plataforma de eventos e ingressos** com diferentes perfis de acesso. Trabalhei nas regras de reserva e nas transações atômicas que evitam conflitos na venda de assentos. Também trabalhei nos ingressos com **QR Code assinado por HMAC** e na pesquisa de eventos em linguagem natural.
 
-<p><img src="https://img.shields.io/badge/React-1F2226?style=flat-square&logo=react&logoColor=61DAFB" height="28" alt="React"> <img src="https://img.shields.io/badge/TypeScript-1F2226?style=flat-square&logo=typescript&logoColor=3178C6" height="28" alt="TypeScript"> <img src="https://img.shields.io/badge/Express-1F2226?style=flat-square&logo=express&logoColor=FFFFFF" height="28" alt="Express"> <img src="https://img.shields.io/badge/Supabase-1F2226?style=flat-square&logo=supabase&logoColor=3ECF8E" height="28" alt="Supabase"> <img src="https://img.shields.io/badge/Gemini-1F2226?style=flat-square&logo=googlegemini&logoColor=8EADFF" height="28" alt="Gemini"></p>
+<p><img src="assets/profile/badges/react.svg" height="28" alt="React"> <img src="assets/profile/badges/typescript.svg" height="28" alt="TypeScript"> <img src="assets/profile/badges/express.svg" height="28" alt="Express"> <img src="assets/profile/badges/supabase.svg" height="28" alt="Supabase"> <img src="assets/profile/badges/gemini.svg" height="28" alt="Gemini"></p>
 
 <p><a href="https://github.com/LeonardoBalk/tessera"><img src="assets/profile/buttons/code-acao.svg" height="40" alt="Ver código"></a> <a href="https://tesseratickets.vercel.app/"><img src="assets/profile/buttons/demo-acao.svg" height="40" alt="Ver demonstração"></a></p>
 
@@ -31,7 +31,7 @@ Atuei no desenvolvimento de uma plataforma **SaaS usada por mais de 1.500 empres
 
 Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, com estatísticas, painéis interativos e consultas em linguagem natural com IA.
 
-<p><img src="https://img.shields.io/badge/React-1F2226?style=flat-square&logo=react&logoColor=61DAFB" height="28" alt="React"> <img src="https://img.shields.io/badge/TypeScript-1F2226?style=flat-square&logo=typescript&logoColor=3178C6" height="28" alt="TypeScript"> <img src="https://img.shields.io/badge/Express-1F2226?style=flat-square&logo=express&logoColor=FFFFFF" height="28" alt="Express"> <img src="https://img.shields.io/badge/Recharts-1F2226?style=flat-square" height="28" alt="Recharts"> <img src="https://img.shields.io/badge/Gemini-1F2226?style=flat-square&logo=googlegemini&logoColor=8EADFF" height="28" alt="Gemini"></p>
+<p><img src="assets/profile/badges/react.svg" height="28" alt="React"> <img src="assets/profile/badges/typescript.svg" height="28" alt="TypeScript"> <img src="assets/profile/badges/express.svg" height="28" alt="Express"> <img src="assets/profile/badges/recharts.svg" height="28" alt="Recharts"> <img src="assets/profile/badges/gemini.svg" height="28" alt="Gemini"></p>
 
 <p><a href="https://github.com/LeonardoBalk/healthlens"><img src="assets/profile/buttons/code-acao.svg" height="40" alt="Ver código"></a> <a href="https://healthlens-client.vercel.app/"><img src="assets/profile/buttons/demo-acao.svg" height="40" alt="Ver demonstração"></a></p>
 
@@ -43,7 +43,7 @@ Plataforma para explorar conjuntos de dados de saúde em **CSV, JSON e XLSX**, c
 
 Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e validação de dados**, conectando APIs, armazenamento e publicação de indicadores. Atuação com Python, FastAPI e interfaces web.
 
-<p><img src="https://img.shields.io/badge/Python-1F2226?style=flat-square&logo=python&logoColor=FFDD54" height="28" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-1F2226?style=flat-square&logo=fastapi&logoColor=00C7B1" height="28" alt="FastAPI"> <img src="https://img.shields.io/badge/Next.js-1F2226?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" height="28" alt="Next.js"> <img src="https://img.shields.io/badge/Supabase-1F2226?style=flat-square&logo=supabase&logoColor=3ECF8E" height="28" alt="Supabase"> <img src="https://img.shields.io/badge/Polars-1F2226?style=flat-square&logo=polars&logoColor=CD792C" height="28" alt="Polars"></p>
+<p><img src="assets/profile/badges/python.svg" height="28" alt="Python"> <img src="assets/profile/badges/fastapi.svg" height="28" alt="FastAPI"> <img src="assets/profile/badges/next.js.svg" height="28" alt="Next.js"> <img src="assets/profile/badges/supabase.svg" height="28" alt="Supabase"> <img src="assets/profile/badges/polars.svg" height="28" alt="Polars"></p>
 
 *Repositório privado.*
 
@@ -53,7 +53,7 @@ Pesquisa e desenvolvimento de uma plataforma de **ingestão, tratamento e valida
 
 Sistema experimental com um **agente de IA** para apoiar a análise e a simulação de cenários fiscais. O projeto combina ferramentas de análise com validação humana.
 
-<p><img src="https://img.shields.io/badge/Python-1F2226?style=flat-square&logo=python&logoColor=FFDD54" height="28" alt="Python"> <img src="https://img.shields.io/badge/CrewAI-1F2226?style=flat-square" height="28" alt="CrewAI"> <img src="https://img.shields.io/badge/LLMs-1F2226?style=flat-square" height="28" alt="LLMs"></p>
+<p><img src="assets/profile/badges/python.svg" height="28" alt="Python"> <img src="assets/profile/badges/crewai.svg" height="28" alt="CrewAI"> <img src="assets/profile/badges/llms.svg" height="28" alt="LLMs"></p>
 
 <p><a href="https://github.com/LeonardoBalk/agentes"><img src="assets/profile/buttons/code-acao.svg" height="40" alt="Ver código"></a></p>
 
@@ -88,13 +88,13 @@ Desenvolvimento e manutenção de plataforma SaaS, criação de funcionalidades 
 
 **Linguagens e frontend**
 
-<p><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,java&theme=dark&perline=8" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind e Java"></p>
+<p><img src="assets/profile/badges/stack-ts-js-react-nextjs-html-css-tailwind-java.svg" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind e Java"></p>
 
 **Backend, dados e ferramentas**
 
-<p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,postgres,supabase,docker&theme=dark&perline=8" alt="Node.js, NestJS, Express, Python, FastAPI, PostgreSQL, Supabase e Docker"></p>
+<p><img src="assets/profile/badges/stack-nodejs-nestjs-express-python-fastapi-postgres-supabase-docker.svg" alt="Node.js, NestJS, Express, Python, FastAPI, PostgreSQL, Supabase e Docker"></p>
 
-<p><img src="https://img.shields.io/badge/APIs%20REST-1F2226?style=flat-square" height="28" alt="APIs REST"> <img src="https://img.shields.io/badge/RAG-1F2226?style=flat-square" height="28" alt="RAG"> <img src="https://img.shields.io/badge/Agentes%20de%20IA-1F2226?style=flat-square" height="28" alt="Agentes de IA"> <img src="https://img.shields.io/badge/Gemini-1F2226?style=flat-square&logo=googlegemini&logoColor=8EADFF" height="28" alt="Gemini"> <img src="https://img.shields.io/badge/OpenAI-1F2226?style=flat-square&logo=openai&logoColor=FFFFFF" height="28" alt="OpenAI"> <img src="https://img.shields.io/badge/Playwright-1F2226?style=flat-square&logo=playwright&logoColor=2EAD33" height="28" alt="Playwright"> <img src="https://img.shields.io/badge/Vitest-1F2226?style=flat-square&logo=vitest&logoColor=6E9F18" height="28" alt="Vitest"> <img src="https://img.shields.io/badge/Git-1F2226?style=flat-square&logo=git&logoColor=F05032" height="28" alt="Git"></p>
+<p><img src="assets/profile/badges/apis-rest.svg" height="28" alt="APIs REST"> <img src="assets/profile/badges/rag.svg" height="28" alt="RAG"> <img src="assets/profile/badges/agentes-de-ia.svg" height="28" alt="Agentes de IA"> <img src="assets/profile/badges/gemini.svg" height="28" alt="Gemini"> <img src="assets/profile/badges/openai.svg" height="28" alt="OpenAI"> <img src="assets/profile/badges/playwright.svg" height="28" alt="Playwright"> <img src="assets/profile/badges/vitest.svg" height="28" alt="Vitest"> <img src="assets/profile/badges/git.svg" height="28" alt="Git"></p>
 
 ## Formação
 
